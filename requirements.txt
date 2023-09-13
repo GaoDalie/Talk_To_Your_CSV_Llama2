@@ -1,0 +1,5 @@
+langchain
+ctransformers
+sentence-transformers
+faiss-cpu
+streamlit== 1.22.0
